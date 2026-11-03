@@ -1,1 +1,2 @@
-Competing Checkpoint 2
+Record the data source and access date.
+Completing Checkpoint 2
