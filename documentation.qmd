@@ -1,1 +1,2 @@
 Load data and plot variables
+Compare document_1 and document_2
